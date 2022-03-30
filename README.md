@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Contro1-cs
+- 👋 Hi, I’m @Aadi
 - 👀 I’m interested in Coding, Competetive coding, Android, OOP
+- 👀 Check out [https://www.instagram.com/younoia.in/](#Younoia). Startup developed by me and my buddies :)
 - 🌱 I’m currently learning B.Tech in CSE @ MIT ADT University and self learning OOP + android studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @wahi.aadi on instagram or aadi.lf21r@gmail.com 
