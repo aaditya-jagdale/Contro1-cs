@@ -2,5 +2,5 @@
 - 👀 I’m interested in Coding, Competetive coding, Android, OOP
 - 👀 Check out [#Younoia](https://www.instagram.com/younoia.in/). Startup developed by me and my buddies :)
 - 🌱 I’m currently learning B.Tech in CSE @ MIT ADT University and self learning OOP + android studio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @wahi.aadi on instagram or aadi.lf21r@gmail.com 
+- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/aaditya-jagdale/)
+- 📫 How to reach me [@wahi.aadi](https://www.instagram.com/wahi.aadi/) on instagram or [email](aadi.lf21r@gmail.com )
