@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadi
-- 👀 I’m interested in Coding, Competetive coding, Android, OOP
+- 👀 I’m do lot of Android dev
 - 👀 Check out [#Younoia](https://www.instagram.com/younoia.in/). Startup developed by me and my buddies :)
 - 🌱 I’m currently learning B.Tech in CSE @ MIT ADT University and self learning OOP + android studio
 - 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/aaditya-jagdale/)
